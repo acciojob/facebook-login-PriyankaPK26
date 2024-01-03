@@ -16,17 +16,15 @@ body{
 	margin-top: 70px;
 	display : inline-block;	
 }
-.right{
-border-radius:5px;
+
+form{
+	line-height: 3;
+	border-radius:5px;
 	box-shadow:0 0 10px #ccc;
 	width:300px;
 	background-color:white;
 	padding:20px;
 	gap : 10px;
-}
-
-form{
-		line-height: 3;
 }
 
 .submit{
